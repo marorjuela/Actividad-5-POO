@@ -12,7 +12,7 @@ Walter Hugo Arboleda Mazo
 
 
 ### Fecha de entrega: 
-30 de junio de 2025
+29 de junio de 2025
 
 ### Grupo:
 3 (remota)
